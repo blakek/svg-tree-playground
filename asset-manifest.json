@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/svg-tree-playground/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/svg-tree-playground/static/js/main.a70d77e8.chunk.js",
+    "main.js.map": "/svg-tree-playground/static/js/main.a70d77e8.chunk.js.map",
+    "runtime-main.js": "/svg-tree-playground/static/js/runtime-main.652d3843.js",
+    "runtime-main.js.map": "/svg-tree-playground/static/js/runtime-main.652d3843.js.map",
+    "static/js/2.2f0a4129.chunk.js": "/svg-tree-playground/static/js/2.2f0a4129.chunk.js",
+    "static/js/2.2f0a4129.chunk.js.map": "/svg-tree-playground/static/js/2.2f0a4129.chunk.js.map",
+    "index.html": "/svg-tree-playground/index.html",
+    "precache-manifest.1077450496c9945fae419344ba63f831.js": "/svg-tree-playground/precache-manifest.1077450496c9945fae419344ba63f831.js",
+    "service-worker.js": "/svg-tree-playground/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/svg-tree-playground/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2f0a4129.chunk.js.LICENSE": "/svg-tree-playground/static/js/2.2f0a4129.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652d3843.js",
+    "static/js/2.2f0a4129.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a70d77e8.chunk.js"
+  ]
+}
