@@ -1,3 +1,3 @@
-# [Canvas Tree](https://blakek.github.io/canvas-tree-playground/)
+# [SVG Tree](https://blakek.github.io/svg-tree-playground/)
 
 ![Screenshot](screenshot.png)
